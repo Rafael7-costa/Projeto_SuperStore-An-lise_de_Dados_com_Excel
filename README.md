@@ -218,8 +218,11 @@ A distribuição geográfica apresenta **concentração de risco urbana** com op
 ## Resultado
 
 As análises mostraram que a SuperStore apresenta oportunidades significativas de melhoria em três frentes principais:
+
 **Retenção:** A ausência de um padrão consistente de recompra indica que a SuperStore opera majoritariamente com **compras esporádicas** em vez de clientes recorrentes. Menos de 10% dos clientes desenvolvem hábito de compra regular, representando significativa oportunidade de melhoria.
+
 **Segmentação:** A análise RFM revela **desequilíbrio estrutural** na base de clientes: pirâmide invertida com excesso de clientes intermediários (67% em Potencial+Fiéis), base de elite insuficiente (5% em Campeões+Promissores), e vazamento significativo (27% em risco). Urgência em: (1) Desenvolver programa de progressão Potencial→Fiéis→Campeões, (2) Acelerar aquisição de novos clientes, (3) Implementar retenção agressiva dos segmentos de risco.
+
 **Performance Produtos e Região:** Portfólio bem diversificado em categorias, mas com concentração de risco em SKUs individuais. Furniture apresenta o melhor equilíbrio entre ticket médio e volume, representando oportunidade de crescimento prioritário.
 Concentração perigosa em NYC (25-30% do negócio) representa vulnerabilidade estrutural. Região South subexplorada oferece maior oportunidade de crescimento. Disparidade de ticket médio entre regiões indica necessidade de personalização de mix de produtos por geografia.
 
