@@ -100,6 +100,7 @@ A análise revelou **desafios críticos de retenção** que exigem ação imedia
 * **Dezembro/2017**: 0% de retenção em todos os períodos subsequentes
 * **Novembro/2017**: Apenas 7% no mês 1, seguido de abandono total
 * **Período 2017**: Deterioração generalizada comparado a anos anteriores
+![Análise 1](img/img1.png)
 
 #### 2. Análise de Segmentação RFM
 #### Resultado da Análise RFM:
@@ -138,6 +139,7 @@ A segmentação revelou **distribuição preocupante** com concentração em seg
 * **Novos Clientes (2%)**: Taxa de aquisição criticamente baixa
   * **ALERTA**: Pipeline de crescimento comprometido
   * Benchmark ideal: 5-10%
+![Análise 1](img/img2.png)
 
 #### 3. Análise de Produtos
 #### Resultado da Análise de Produtos:
@@ -165,6 +167,8 @@ A análise revelou **concentração de risco extrema** e oportunidades de otimiz
 * 10 produtos venderam apenas 1-2 unidades
 * **Recomendação**: Avaliar descontinuação ou liquidação
 * Potencial estoque parado representando custo de oportunidade
+![Análise 1](img/img3.png)
+![Análise 1](img/img4.png)
 
 #### 4. Análise de Localizações
 #### Resultado da Análise Regional:
@@ -190,6 +194,7 @@ A distribuição geográfica apresenta **concentração de risco urbana** com op
   * Indica clientes de **maior valor** (Technology?)
 * Philadelphia: Mais pedidos, menos faturamento
   * Predominância de **Office Supplies** (baixo ticket)
+ ![Análise 1](img/img5.png)
 
 #### Análise Regional Profunda:
 **West (Melhor Performance):**
@@ -214,6 +219,7 @@ A distribuição geográfica apresenta **concentração de risco urbana** com op
 * Região menos explorada
 * **MAIOR OPORTUNIDADE DE CRESCIMENTO**
 * Potencial de duplicar faturamento com estratégia focada
+![Análise 1](img/img6.png)
 
 ## Resultado
 
